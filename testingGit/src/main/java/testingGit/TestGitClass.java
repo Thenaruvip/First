@@ -12,6 +12,7 @@ public class TestGitClass {
 		String input = sc.nextLine();
 		System.out.println("You entered: " + input);
 		System.out.println("Thank you");
+		System.out.println("welcome");
 		//testing the git 
 		
 	}
